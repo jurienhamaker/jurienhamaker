@@ -1,1 +1,1 @@
-![Jurien.dev](./jurien.dev.gif)
+![Jurien.dev](./jurien-header.gif)
